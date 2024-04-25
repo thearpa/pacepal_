@@ -1,0 +1,21 @@
+{
+  "name": "pacepal2",
+  "version": "1.0.0",
+  "description": "For å starte prosjektet:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.stud.idi.ntnu.no/gib2prosjekt/pacepal2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mapbox/mapbox-sdk": "^0.15.5",
+    "@turf/turf": "^6.5.0",
+    "react-router-dom": "^6.22.3"
+  }
+}
